@@ -1,0 +1,21 @@
+{
+  "name": "AT3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "AT3.html",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HenthonyGuilherme/aula-html-textuais-01.git"
+  },
+  "keywords": [
+    "003"
+  ],
+  "author": "Henthony",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HenthonyGuilherme/aula-html-textuais-01/issues"
+  },
+  "homepage": "https://github.com/HenthonyGuilherme/aula-html-textuais-01#readme"
+}
